@@ -30,7 +30,7 @@ http://localhost:9006/oauth/authorize?client_id=c1&response_type=code&scope=all&
 
 （密码模式）
 
-使用postman访问（参数要和代码中的一样）
+使用postman访问（参数要和代码中的一样），把authorization_code的参数改为password，同时添加username和password字段
 
 ![image-20200507132718919](https://raw.githubusercontent.com/okhurley/oauth2/master/img/5.png)
 
